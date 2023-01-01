@@ -1,1 +1,1 @@
-# circle-ci-connection with github
+# circle-ci-connection
